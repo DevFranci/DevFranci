@@ -1,5 +1,5 @@
 ## Olá eu sou a Franciele Vieira!✨ 
-### Seja ben vindos ao meu perfil Github!!!✨
+### Seja bem vindos ao meu perfil Github!!!✨
 
 <div align="center">
   <a href="https://github.com/DevFranci">
